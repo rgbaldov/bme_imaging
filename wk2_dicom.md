@@ -19,6 +19,7 @@
 - **File Format:** This is the way medical images and their associated data are packaged. A single DICOM file contains both the image pixel data and a header with information about the patient, study, and imaging device. 
 - **Protocol:** This is the set of rules for how medical images are exchanged over a network. It's a communication protocol that ensures data is sent and received correctly.  
 - **Structured Reporting:** DICOM also allows for the transfer of structured data, such as measurement values, dose information, and even reports, alongside the images. 
+<img width="1106" height="232" alt="sample" src="https://www.researchgate.net/profile/Siau-Chuin-Liew/publication/282567155/figure/fig5/AS:667669254664193@1536196163103/Tampered-DICOM-image-of-Sample-1-watermarked-by-the-application.jpg" />
 ---
 
 ## 4. The DICOM Header  
