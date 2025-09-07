@@ -20,7 +20,6 @@
 - **Protocol:** This is the set of rules for how medical images are exchanged over a network. It's a communication protocol that ensures data is sent and received correctly.  
 - **Structured Reporting:** DICOM also allows for the transfer of structured data, such as measurement values, dose information, and even reports, alongside the images. 
 <img alt="sample" src="https://github.com/rgbaldov/bme_imaging/blob/main/us.png"/>
----
 
 ## 4. The DICOM Header  
 - The header is a critical part of a DICOM file. It's like a digital label or manifest. 
