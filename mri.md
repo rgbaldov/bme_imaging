@@ -9,8 +9,7 @@
 Magnetic Resonance Imaging (MRI) is a **non-invasive imaging technique** used to visualize detailed internal structures of the body. It provides high-contrast images of soft tissues, making it a critical tool in **neurology, musculoskeletal imaging, and oncology**.
 MRI uses **strong magnetic fields** and **radiofrequency (RF) pulses** to excite hydrogen nuclei (protons) in the body and detect the resulting signals.
 
-## 2. Basic Principle of MRI
-
+## 2. Basic [Principle](https://www.youtube.com/watch?v=nFkBhUYynUw) of MRI:
 ### 2.1 Nuclear Magnetic Resonance (NMR)
 MRI is based on the **Nuclear Magnetic Resonance (NMR)** phenomenon, where atomic nuclei with unpaired protons or neutrons (like hydrogen) absorb and re-emit electromagnetic radiation when placed in a magnetic field.
 ### 2.2 Proton Alignment
