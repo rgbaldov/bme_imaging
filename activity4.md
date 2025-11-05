@@ -16,10 +16,10 @@ HU allows identification of tissue density:
 In this activity, you will work with a real structured HU dataset from a lung CT slice and write Python code to classify tissues based on HU values.
 
 ### Activity Files (Required)
-| File | Description |
+| File | Description | Link
 |------|-------------|
-| `lung_hu_slice.npy` | HU matrix of a Lung CT slice |
-| `HU_CT_activity.ipynb` | Starter notebook |
+| `lung_hu_slice.npy` | HU matrix of a Lung CT slice | (Link)[https://github.com/rgbaldov/bme_imaging/blob/main/HU_CT_activity.ipynb]
+| `HU_CT_activity.ipynb` | Starter notebook | (Link)[https://github.com/rgbaldov/bme_imaging/blob/main/lung_hu_slice.npy]
 
 ## Learning Objectives
 After this lab, you should be able to:
