@@ -12,8 +12,18 @@ This example demonstrates:
 3. Loading data from the database.
 4. Performing a simple machine learning task (predicting claim approval).
 
+## How It Works
+1. Creates a local SQLite database to store claims.
+2. Users can enter new claims interactively via the console.
+3. Trains a Random Forest classifier on claims with known approvals.
+4. Predicts approval for newly added claims and updates the database.
+5. Provides a simple console menu for managing claims and running ML tasks.
+
 ## [Python Code](https://raw.githubusercontent.com/rgbaldov/bme_imaging/refs/heads/main/insurance.py)
 
-## Requirements
-```bash
+## Libraries
 pip install pandas scikit-learn sqlite3
+
+## Next Steps
+1. Add a GUI using Tkinter/Streamlit for better usability.
+2. 
