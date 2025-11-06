@@ -1,4 +1,4 @@
-# Programming Activity: Medical Insurance Claims Analysis
+# Activity 7: Medical Insurance Claims Analysis
 
 **Prepared by:**  
 
