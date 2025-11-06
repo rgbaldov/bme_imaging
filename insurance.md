@@ -26,4 +26,4 @@ pip install pandas scikit-learn sqlite3
 
 ## Next Steps
 1. Add a GUI using Tkinter/Streamlit for better usability.
-2. 
+2. Enable exporting claim data to CSV for reporting or analysis.
