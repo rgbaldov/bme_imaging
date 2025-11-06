@@ -1,4 +1,4 @@
-# Programming Activity: ML in Medical Imaging
+# Activity 6: ML in Medical Imaging
 
 **Prepared by:**  
 
