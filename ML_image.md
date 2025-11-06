@@ -1,4 +1,4 @@
-# Activity 4: Programming with HU using Lung CT Slice
+# Programming Activity: ML in Medical Imaging
 
 **Prepared by:**  
 
