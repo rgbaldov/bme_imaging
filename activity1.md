@@ -47,3 +47,8 @@ Load the test DICOM file using pydicom and extract the mandatory demographic and
 
 ### Task 3: [Ethical DICOM De-Identification (PS 3.15 Basic Application Profile)](https://raw.githubusercontent.com/rgbaldov/bme_imaging/refs/heads/main/task3.py)
 In accordance with patient confidentiality rules and international DICOM standards, anonymize the dataset by stripping direct identifiers and hashing unique identifiers (UIDs) to preserve study linkages.
+
+### Task 4: Lab Questions & Discussion
+1. Pixel Representation: Explain why raw stored detector values (BitsStored = 12) cannot be saved as signed 8-bit integers without significant loss of clinical information.
+2. Metadata Integrity: What risks occur when software blindly deletes private vendor tags during de-identification in advanced modalities like Diffusion Tensor MRI or Dual-Energy CT?
+3. Cybersecurity & Safety: Review recent cybersecurity disclosures (e.g., Cylera Labs / Black Hat) concerning executable code placed in the 128-byte preamble or malicious manipulation of DICOM Store services. How should clinical biomedical engineers design hospital PACS networks to prevent data injection or tampering?
