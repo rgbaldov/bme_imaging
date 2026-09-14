@@ -37,6 +37,7 @@ where $c$ is the `Window Center` and $w$ is the `Window Width`.
 Ensure the standard imaging packages are installed in your Python 3 environment:
 ```bash
 pip install pydicom numpy matplotlib
+```
 
 To load standard test data without relying on external web requests or outdated URLs, use the built-in dataset utility provided by [pydicom](https://raw.githubusercontent.com/rgbaldov/bme_imaging/refs/heads/main/pydicom.py):
 
