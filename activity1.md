@@ -37,3 +37,13 @@ where $c$ is the `Window Center` and $w$ is the `Window Width`.
 Ensure the standard imaging packages are installed in your Python 3 environment:
 ```bash
 pip install pydicom numpy matplotlib
+
+To load standard test data without relying on external web requests or outdated URLs, use the built-in dataset utility provided by [pydicom](https://raw.githubusercontent.com/rgbaldov/bme_imaging/refs/heads/main/pydicom.py):
+
+## 4. Laboratory Tasks
+### Task 1: Low-Level Header Parsing & Field of View (FOV) Inspection
+Load the test DICOM file using pydicom and extract the mandatory demographic and acquisition tags. Compute the physical dimensions (in millimeters) represented by the scan matrix.
+See [program](https://raw.githubusercontent.com/rgbaldov/bme_imaging/refs/heads/main/task2.py).
+
+### Task 3: Ethical DICOM De-Identification (PS 3.15 Basic Application Profile)
+In accordance with patient confidentiality rules and international DICOM standards, anonymize the dataset by stripping direct identifiers and hashing unique identifiers (UIDs) to preserve study linkages. See [program](https://raw.githubusercontent.com/rgbaldov/bme_imaging/refs/heads/main/task2.py](https://raw.githubusercontent.com/rgbaldov/bme_imaging/refs/heads/main/task3.py)
