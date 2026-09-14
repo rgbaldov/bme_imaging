@@ -4,7 +4,7 @@
 **Gokongwei College of Engineering**  
 **Department of Biomedical, Manufacturing, and Robotics Engineering**  
 **Course Code:** BEMEDIS | **Course Title:** Medical Imaging Systems  
-**Term & Academic Year:** 1st Term, AY 2025–2026  
+**Term & Academic Year:** 1st Term, AY 2026–2027  
 **Instructor:** Dr. Renann G. Baldovino  
 
 ## 1. Objectives & Syllabus Alignment
